@@ -1,0 +1,2000 @@
+Start Train
+Train End
+Start Validation
+Finish Validation
+Epoch:1/200
+Total loss: 0.5112 || Val Loss: 0.4402 
+Total f-score: 0.4454 || Val f-score: 0.5112
+Total precision: 0.5481 || Val precision: 0.6401
+Total recall: 0.5661 || Val recall: 0.7483
+Saving state, iter: 1
+Start Train
+Train End
+Start Validation
+Finish Validation
+Epoch:2/200
+Total loss: 0.4139 || Val Loss: 0.3818 
+Total f-score: 0.7500 || Val f-score: 0.7381
+Total precision: 0.7655 || Val precision: 0.8210
+Total recall: 0.8383 || Val recall: 0.7772
+Saving state, iter: 2
+Start Train
+Train End
+Start Validation
+Finish Validation
+Epoch:3/200
+Total loss: 0.3645 || Val Loss: 0.3704 
+Total f-score: 0.8194 || Val f-score: 0.7341
+Total precision: 0.8166 || Val precision: 0.8346
+Total recall: 0.8755 || Val recall: 0.7309
+Saving state, iter: 3
+Start Train
+Train End
+Start Validation
+Finish Validation
+Epoch:4/200
+Total loss: 0.3209 || Val Loss: 0.3375 
+Total f-score: 0.8503 || Val f-score: 0.7617
+Total precision: 0.8467 || Val precision: 0.8496
+Total recall: 0.8812 || Val recall: 0.7772
+Saving state, iter: 4
+Start Train
+Train End
+Start Validation
+Finish Validation
+Epoch:5/200
+Total loss: 0.2867 || Val Loss: 0.3507 
+Total f-score: 0.8639 || Val f-score: 0.6989
+Total precision: 0.8563 || Val precision: 0.8934
+Total recall: 0.8920 || Val recall: 0.7137
+Saving state, iter: 5
+Start Train
+Train End
+Start Validation
+Finish Validation
+Epoch:6/200
+Total loss: 0.2523 || Val Loss: 0.2996 
+Total f-score: 0.8716 || Val f-score: 0.7699
+Total precision: 0.8648 || Val precision: 0.8584
+Total recall: 0.8959 || Val recall: 0.7769
+Saving state, iter: 6
+Start Train
+Train End
+Start Validation
+Finish Validation
+Epoch:7/200
+Total loss: 0.2396 || Val Loss: 0.2889 
+Total f-score: 0.8784 || Val f-score: 0.7778
+Total precision: 0.8714 || Val precision: 0.8845
+Total recall: 0.8960 || Val recall: 0.7492
+Saving state, iter: 7
+Start Train
+Train End
+Start Validation
+Finish Validation
+Epoch:8/200
+Total loss: 0.2186 || Val Loss: 0.2633 
+Total f-score: 0.8810 || Val f-score: 0.8012
+Total precision: 0.8733 || Val precision: 0.8785
+Total recall: 0.9011 || Val recall: 0.7831
+Saving state, iter: 8
+Start Train
+Train End
+Start Validation
+Finish Validation
+Epoch:9/200
+Total loss: 0.2031 || Val Loss: 0.2789 
+Total f-score: 0.8851 || Val f-score: 0.7627
+Total precision: 0.8773 || Val precision: 0.9108
+Total recall: 0.9045 || Val recall: 0.7336
+Saving state, iter: 9
+Start Train
+Train End
+Start Validation
+Finish Validation
+Epoch:10/200
+Total loss: 0.1975 || Val Loss: 0.3251 
+Total f-score: 0.8858 || Val f-score: 0.6873
+Total precision: 0.8768 || Val precision: 0.9428
+Total recall: 0.9055 || Val recall: 0.6692
+Saving state, iter: 10
+Start Train
+Train End
+Start Validation
+Finish Validation
+Epoch:11/200
+Total loss: 0.1878 || Val Loss: 0.2669 
+Total f-score: 0.8828 || Val f-score: 0.7734
+Total precision: 0.8730 || Val precision: 0.9023
+Total recall: 0.9092 || Val recall: 0.7531
+Saving state, iter: 11
+Start Train
+Train End
+Start Validation
+Finish Validation
+Epoch:12/200
+Total loss: 0.1848 || Val Loss: 0.2431 
+Total f-score: 0.8866 || Val f-score: 0.7947
+Total precision: 0.8785 || Val precision: 0.8709
+Total recall: 0.9070 || Val recall: 0.7899
+Saving state, iter: 12
+Start Train
+Train End
+Start Validation
+Finish Validation
+Epoch:13/200
+Total loss: 0.1753 || Val Loss: 0.2388 
+Total f-score: 0.8927 || Val f-score: 0.7989
+Total precision: 0.8826 || Val precision: 0.8907
+Total recall: 0.9125 || Val recall: 0.7795
+Saving state, iter: 13
+Start Train
+Train End
+Start Validation
+Finish Validation
+Epoch:14/200
+Total loss: 0.1683 || Val Loss: 0.2181 
+Total f-score: 0.8984 || Val f-score: 0.8282
+Total precision: 0.8856 || Val precision: 0.8535
+Total recall: 0.9174 || Val recall: 0.8299
+Saving state, iter: 14
+Start Train
+Train End
+Start Validation
+Finish Validation
+Epoch:15/200
+Total loss: 0.1656 || Val Loss: 0.2300 
+Total f-score: 0.8959 || Val f-score: 0.8083
+Total precision: 0.8819 || Val precision: 0.8901
+Total recall: 0.9196 || Val recall: 0.7854
+Saving state, iter: 15
+Start Train
+Train End
+Start Validation
+Finish Validation
+Epoch:16/200
+Total loss: 0.1662 || Val Loss: 0.2704 
+Total f-score: 0.8942 || Val f-score: 0.7501
+Total precision: 0.8818 || Val precision: 0.9056
+Total recall: 0.9176 || Val recall: 0.7414
+Saving state, iter: 16
+Start Train
+Train End
+Start Validation
+Finish Validation
+Epoch:17/200
+Total loss: 0.1606 || Val Loss: 0.2399 
+Total f-score: 0.9034 || Val f-score: 0.7895
+Total precision: 0.8876 || Val precision: 0.8937
+Total recall: 0.9233 || Val recall: 0.7719
+Saving state, iter: 17
+Start Train
+Train End
+Start Validation
+Finish Validation
+Epoch:18/200
+Total loss: 0.1581 || Val Loss: 0.2230 
+Total f-score: 0.9018 || Val f-score: 0.8249
+Total precision: 0.8859 || Val precision: 0.8081
+Total recall: 0.9246 || Val recall: 0.8683
+Saving state, iter: 18
+Start Train
+Train End
+Start Validation
+Finish Validation
+Epoch:19/200
+Total loss: 0.1566 || Val Loss: 0.2568 
+Total f-score: 0.9013 || Val f-score: 0.7679
+Total precision: 0.8845 || Val precision: 0.8862
+Total recall: 0.9253 || Val recall: 0.7640
+Saving state, iter: 19
+Start Train
+Train End
+Start Validation
+Finish Validation
+Epoch:20/200
+Total loss: 0.1546 || Val Loss: 0.2187 
+Total f-score: 0.9024 || Val f-score: 0.8216
+Total precision: 0.8857 || Val precision: 0.8488
+Total recall: 0.9263 || Val recall: 0.8286
+Saving state, iter: 20
+Start Train
+Train End
+Start Validation
+Finish Validation
+Epoch:21/200
+Total loss: 0.1547 || Val Loss: 0.2648 
+Total f-score: 0.8990 || Val f-score: 0.7530
+Total precision: 0.8821 || Val precision: 0.9082
+Total recall: 0.9268 || Val recall: 0.7432
+Saving state, iter: 21
+Start Train
+Train End
+Start Validation
+Finish Validation
+Epoch:22/200
+Total loss: 0.1528 || Val Loss: 0.2106 
+Total f-score: 0.8999 || Val f-score: 0.8297
+Total precision: 0.8816 || Val precision: 0.8485
+Total recall: 0.9286 || Val recall: 0.8346
+Saving state, iter: 22
+Start Train
+Train End
+Start Validation
+Finish Validation
+Epoch:23/200
+Total loss: 0.1502 || Val Loss: 0.2138 
+Total f-score: 0.9043 || Val f-score: 0.8240
+Total precision: 0.8860 || Val precision: 0.8771
+Total recall: 0.9298 || Val recall: 0.8052
+Saving state, iter: 23
+Start Train
+Train End
+Start Validation
+Finish Validation
+Epoch:24/200
+Total loss: 0.1500 || Val Loss: 0.2595 
+Total f-score: 0.9043 || Val f-score: 0.7583
+Total precision: 0.8846 || Val precision: 0.8942
+Total recall: 0.9316 || Val recall: 0.7554
+Saving state, iter: 24
+Start Train
+Train End
+Start Validation
+Finish Validation
+Epoch:25/200
+Total loss: 0.1511 || Val Loss: 0.2257 
+Total f-score: 0.9004 || Val f-score: 0.8111
+Total precision: 0.8823 || Val precision: 0.8584
+Total recall: 0.9290 || Val recall: 0.8095
+Saving state, iter: 25
+Start Train
+Train End
+Start Validation
+Finish Validation
+Epoch:26/200
+Total loss: 0.1648 || Val Loss: 0.3154 
+Total f-score: 0.8927 || Val f-score: 0.6872
+Total precision: 0.8793 || Val precision: 0.9244
+Total recall: 0.9147 || Val recall: 0.6812
+Saving state, iter: 26
+Start Train
+Train End
+Start Validation
+Finish Validation
+Epoch:27/200
+Total loss: 0.1641 || Val Loss: 0.2727 
+Total f-score: 0.8839 || Val f-score: 0.7448
+Total precision: 0.8707 || Val precision: 0.9043
+Total recall: 0.9143 || Val recall: 0.7399
+Saving state, iter: 27
+Start Train
+Train End
+Start Validation
+Finish Validation
+Epoch:28/200
+Total loss: 0.1518 || Val Loss: 0.2422 
+Total f-score: 0.9021 || Val f-score: 0.7839
+Total precision: 0.8846 || Val precision: 0.8774
+Total recall: 0.9275 || Val recall: 0.7795
+Saving state, iter: 28
+Start Train
+Train End
+Start Validation
+Finish Validation
+Epoch:29/200
+Total loss: 0.1487 || Val Loss: 0.2262 
+Total f-score: 0.9039 || Val f-score: 0.8049
+Total precision: 0.8831 || Val precision: 0.8729
+Total recall: 0.9328 || Val recall: 0.7993
+Saving state, iter: 29
+Start Train
+Train End
+Start Validation
+Finish Validation
+Epoch:30/200
+Total loss: 0.1465 || Val Loss: 0.2037 
+Total f-score: 0.9083 || Val f-score: 0.8340
+Total precision: 0.8869 || Val precision: 0.8553
+Total recall: 0.9349 || Val recall: 0.8347
+Saving state, iter: 30
+Start Train
+Train End
+Start Validation
+Finish Validation
+Epoch:31/200
+Total loss: 0.1470 || Val Loss: 0.2243 
+Total f-score: 0.9049 || Val f-score: 0.8075
+Total precision: 0.8847 || Val precision: 0.8741
+Total recall: 0.9331 || Val recall: 0.7956
+Saving state, iter: 31
+Start Train
+Train End
+Start Validation
+Finish Validation
+Epoch:32/200
+Total loss: 0.1455 || Val Loss: 0.2066 
+Total f-score: 0.9029 || Val f-score: 0.8339
+Total precision: 0.8819 || Val precision: 0.8321
+Total recall: 0.9350 || Val recall: 0.8525
+Saving state, iter: 32
+Start Train
+Train End
+Start Validation
+Finish Validation
+Epoch:33/200
+Total loss: 0.1455 || Val Loss: 0.2815 
+Total f-score: 0.9056 || Val f-score: 0.7239
+Total precision: 0.8842 || Val precision: 0.9155
+Total recall: 0.9354 || Val recall: 0.7205
+Saving state, iter: 33
+Start Train
+Train End
+Start Validation
+Finish Validation
+Epoch:34/200
+Total loss: 0.1463 || Val Loss: 0.2362 
+Total f-score: 0.8992 || Val f-score: 0.7960
+Total precision: 0.8784 || Val precision: 0.8542
+Total recall: 0.9344 || Val recall: 0.7968
+Saving state, iter: 34
+Start Train
+Train End
+Start Validation
+Finish Validation
+Epoch:35/200
+Total loss: 0.1457 || Val Loss: 0.2303 
+Total f-score: 0.9053 || Val f-score: 0.8007
+Total precision: 0.8839 || Val precision: 0.8662
+Total recall: 0.9349 || Val recall: 0.7984
+Saving state, iter: 35
+Start Train
+Train End
+Start Validation
+Finish Validation
+Epoch:36/200
+Total loss: 0.1430 || Val Loss: 0.3045 
+Total f-score: 0.9102 || Val f-score: 0.6957
+Total precision: 0.8873 || Val precision: 0.9273
+Total recall: 0.9388 || Val recall: 0.6918
+Saving state, iter: 36
+Start Train
+Train End
+Start Validation
+Finish Validation
+Epoch:37/200
+Total loss: 0.1420 || Val Loss: 0.2858 
+Total f-score: 0.9080 || Val f-score: 0.7204
+Total precision: 0.8845 || Val precision: 0.9112
+Total recall: 0.9403 || Val recall: 0.7167
+Saving state, iter: 37
+Start Train
+Train End
+Start Validation
+Finish Validation
+Epoch:38/200
+Total loss: 0.1433 || Val Loss: 0.2147 
+Total f-score: 0.9100 || Val f-score: 0.8202
+Total precision: 0.8865 || Val precision: 0.8627
+Total recall: 0.9396 || Val recall: 0.8140
+Saving state, iter: 38
+Start Train
+Train End
+Start Validation
+Finish Validation
+Epoch:39/200
+Total loss: 0.1427 || Val Loss: 0.2305 
+Total f-score: 0.9044 || Val f-score: 0.7976
+Total precision: 0.8809 || Val precision: 0.8596
+Total recall: 0.9397 || Val recall: 0.8020
+Saving state, iter: 39
+Start Train
+Train End
+Start Validation
+Finish Validation
+Epoch:40/200
+Total loss: 0.1415 || Val Loss: 0.2085 
+Total f-score: 0.9081 || Val f-score: 0.8281
+Total precision: 0.8849 || Val precision: 0.8404
+Total recall: 0.9399 || Val recall: 0.8416
+Saving state, iter: 40
+Start Train
+Train End
+Start Validation
+Finish Validation
+Epoch:41/200
+Total loss: 0.1430 || Val Loss: 0.2472 
+Total f-score: 0.9042 || Val f-score: 0.7737
+Total precision: 0.8817 || Val precision: 0.8734
+Total recall: 0.9382 || Val recall: 0.7756
+Saving state, iter: 41
+Start Train
+Train End
+Start Validation
+Finish Validation
+Epoch:42/200
+Total loss: 0.1429 || Val Loss: 0.2424 
+Total f-score: 0.9012 || Val f-score: 0.7800
+Total precision: 0.8789 || Val precision: 0.8747
+Total recall: 0.9377 || Val recall: 0.7813
+Saving state, iter: 42
+Start Train
+Train End
+Start Validation
+Finish Validation
+Epoch:43/200
+Total loss: 0.1414 || Val Loss: 0.2414 
+Total f-score: 0.9080 || Val f-score: 0.7828
+Total precision: 0.8840 || Val precision: 0.8814
+Total recall: 0.9408 || Val recall: 0.7741
+Saving state, iter: 43
+Start Train
+Train End
+Start Validation
+Finish Validation
+Epoch:44/200
+Total loss: 0.1419 || Val Loss: 0.2517 
+Total f-score: 0.9049 || Val f-score: 0.7708
+Total precision: 0.8816 || Val precision: 0.8881
+Total recall: 0.9399 || Val recall: 0.7663
+Saving state, iter: 44
+Start Train
+Train End
+Start Validation
+Finish Validation
+Epoch:45/200
+Total loss: 0.1406 || Val Loss: 0.2500 
+Total f-score: 0.9057 || Val f-score: 0.7725
+Total precision: 0.8817 || Val precision: 0.8835
+Total recall: 0.9413 || Val recall: 0.7673
+Saving state, iter: 45
+Start Train
+Train End
+Start Validation
+Finish Validation
+Epoch:46/200
+Total loss: 0.1446 || Val Loss: 0.2424 
+Total f-score: 0.8998 || Val f-score: 0.7817
+Total precision: 0.8778 || Val precision: 0.8769
+Total recall: 0.9367 || Val recall: 0.7762
+Saving state, iter: 46
+Start Train
+Train End
+Start Validation
+Finish Validation
+Epoch:47/200
+Total loss: 0.1486 || Val Loss: 0.3121 
+Total f-score: 0.9029 || Val f-score: 0.6934
+Total precision: 0.8824 || Val precision: 0.9171
+Total recall: 0.9325 || Val recall: 0.6879
+Saving state, iter: 47
+Start Train
+Train End
+Start Validation
+Finish Validation
+Epoch:48/200
+Total loss: 0.1462 || Val Loss: 0.3270 
+Total f-score: 0.9045 || Val f-score: 0.6676
+Total precision: 0.8831 || Val precision: 0.9332
+Total recall: 0.9343 || Val recall: 0.6679
+Saving state, iter: 48
+Start Train
+Train End
+Start Validation
+Finish Validation
+Epoch:49/200
+Total loss: 0.1426 || Val Loss: 0.2358 
+Total f-score: 0.9040 || Val f-score: 0.7947
+Total precision: 0.8813 || Val precision: 0.8596
+Total recall: 0.9382 || Val recall: 0.7939
+Saving state, iter: 49
+Start Train
+Train End
+Start Validation
+Finish Validation
+Epoch:50/200
+Total loss: 0.1401 || Val Loss: 0.2258 
+Total f-score: 0.9030 || Val f-score: 0.8052
+Total precision: 0.8784 || Val precision: 0.8664
+Total recall: 0.9425 || Val recall: 0.7933
+Saving state, iter: 50
+Start Train
+Train End
+Start Validation
+Finish Validation
+Epoch:51/200
+Total loss: 0.1390 || Val Loss: 0.2172 
+Total f-score: 0.9067 || Val f-score: 0.8173
+Total precision: 0.8819 || Val precision: 0.8664
+Total recall: 0.9435 || Val recall: 0.8050
+Saving state, iter: 51
+Start Train
+Train End
+Start Validation
+Finish Validation
+Epoch:52/200
+Total loss: 0.1382 || Val Loss: 0.2032 
+Total f-score: 0.9100 || Val f-score: 0.8331
+Total precision: 0.8843 || Val precision: 0.8541
+Total recall: 0.9450 || Val recall: 0.8288
+Saving state, iter: 52
+Start Train
+Train End
+Start Validation
+Finish Validation
+Epoch:53/200
+Total loss: 0.1386 || Val Loss: 0.2797 
+Total f-score: 0.9127 || Val f-score: 0.7229
+Total precision: 0.8874 || Val precision: 0.9085
+Total recall: 0.9446 || Val recall: 0.7232
+Saving state, iter: 53
+Start Train
+Train End
+Start Validation
+Finish Validation
+Epoch:54/200
+Total loss: 0.1381 || Val Loss: 0.2448 
+Total f-score: 0.9073 || Val f-score: 0.7794
+Total precision: 0.8815 || Val precision: 0.8825
+Total recall: 0.9455 || Val recall: 0.7658
+Saving state, iter: 54
+Start Train
+Train End
+Start Validation
+Finish Validation
+Epoch:55/200
+Total loss: 0.1378 || Val Loss: 0.2799 
+Total f-score: 0.9132 || Val f-score: 0.7357
+Total precision: 0.8886 || Val precision: 0.8896
+Total recall: 0.9440 || Val recall: 0.7298
+Saving state, iter: 55
+Start Train
+Train End
+Start Validation
+Finish Validation
+Epoch:56/200
+Total loss: 0.1386 || Val Loss: 0.2735 
+Total f-score: 0.9069 || Val f-score: 0.7560
+Total precision: 0.8815 || Val precision: 0.8811
+Total recall: 0.9447 || Val recall: 0.7300
+Saving state, iter: 56
+Start Train
+Train End
+Start Validation
+Finish Validation
+Epoch:57/200
+Total loss: 0.1383 || Val Loss: 0.2526 
+Total f-score: 0.9070 || Val f-score: 0.7689
+Total precision: 0.8816 || Val precision: 0.8897
+Total recall: 0.9447 || Val recall: 0.7547
+Saving state, iter: 57
+Start Train
+Train End
+Start Validation
+Finish Validation
+Epoch:58/200
+Total loss: 0.1383 || Val Loss: 0.2156 
+Total f-score: 0.9128 || Val f-score: 0.8205
+Total precision: 0.8881 || Val precision: 0.8519
+Total recall: 0.9438 || Val recall: 0.8224
+Saving state, iter: 58
+Start Train
+Train End
+Start Validation
+Finish Validation
+Epoch:59/200
+Total loss: 0.1376 || Val Loss: 0.2757 
+Total f-score: 0.9075 || Val f-score: 0.7332
+Total precision: 0.8825 || Val precision: 0.9056
+Total recall: 0.9447 || Val recall: 0.7287
+Saving state, iter: 59
+Start Train
+Train End
+Start Validation
+Finish Validation
+Epoch:60/200
+Total loss: 0.1389 || Val Loss: 0.2075 
+Total f-score: 0.9066 || Val f-score: 0.8270
+Total precision: 0.8815 || Val precision: 0.8518
+Total recall: 0.9445 || Val recall: 0.8299
+Saving state, iter: 60
+Start Train
+Train End
+Start Validation
+Finish Validation
+Epoch:61/200
+Total loss: 0.1397 || Val Loss: 0.2273 
+Total f-score: 0.9089 || Val f-score: 0.8016
+Total precision: 0.8852 || Val precision: 0.8659
+Total recall: 0.9421 || Val recall: 0.7994
+Saving state, iter: 61
+Start Train
+Train End
+Start Validation
+Finish Validation
+Epoch:62/200
+Total loss: 0.1384 || Val Loss: 0.2252 
+Total f-score: 0.9098 || Val f-score: 0.8040
+Total precision: 0.8843 || Val precision: 0.8649
+Total recall: 0.9448 || Val recall: 0.8028
+Saving state, iter: 62
+Start Train
+Train End
+Start Validation
+Finish Validation
+Epoch:63/200
+Total loss: 0.1451 || Val Loss: 0.2262 
+Total f-score: 0.9021 || Val f-score: 0.8143
+Total precision: 0.8801 || Val precision: 0.8289
+Total recall: 0.9367 || Val recall: 0.8245
+Saving state, iter: 63
+Start Train
+Train End
+Start Validation
+Finish Validation
+Epoch:64/200
+Total loss: 0.1454 || Val Loss: 0.2014 
+Total f-score: 0.9017 || Val f-score: 0.8371
+Total precision: 0.8782 || Val precision: 0.8345
+Total recall: 0.9381 || Val recall: 0.8556
+Saving state, iter: 64
+Start Train
+Train End
+Start Validation
+Finish Validation
+Epoch:65/200
+Total loss: 0.1410 || Val Loss: 0.2405 
+Total f-score: 0.9050 || Val f-score: 0.7832
+Total precision: 0.8809 || Val precision: 0.8734
+Total recall: 0.9414 || Val recall: 0.7800
+Saving state, iter: 65
+Start Train
+Train End
+Start Validation
+Finish Validation
+Epoch:66/200
+Total loss: 0.1384 || Val Loss: 0.2398 
+Total f-score: 0.9041 || Val f-score: 0.7834
+Total precision: 0.8791 || Val precision: 0.8784
+Total recall: 0.9439 || Val recall: 0.7774
+Saving state, iter: 66
+Start Train
+Train End
+Start Validation
+Finish Validation
+Epoch:67/200
+Total loss: 0.1387 || Val Loss: 0.2211 
+Total f-score: 0.9067 || Val f-score: 0.8095
+Total precision: 0.8811 || Val precision: 0.8610
+Total recall: 0.9447 || Val recall: 0.8110
+Saving state, iter: 67
+Start Train
+Train End
+Start Validation
+Finish Validation
+Epoch:68/200
+Total loss: 0.1372 || Val Loss: 0.2095 
+Total f-score: 0.9078 || Val f-score: 0.8253
+Total precision: 0.8818 || Val precision: 0.8381
+Total recall: 0.9464 || Val recall: 0.8396
+Saving state, iter: 68
+Start Train
+Train End
+Start Validation
+Finish Validation
+Epoch:69/200
+Total loss: 0.1369 || Val Loss: 0.2520 
+Total f-score: 0.9108 || Val f-score: 0.7682
+Total precision: 0.8856 || Val precision: 0.8754
+Total recall: 0.9454 || Val recall: 0.7691
+Saving state, iter: 69
+Start Train
+Train End
+Start Validation
+Finish Validation
+Epoch:70/200
+Total loss: 0.1374 || Val Loss: 0.2233 
+Total f-score: 0.9076 || Val f-score: 0.8083
+Total precision: 0.8816 || Val precision: 0.8643
+Total recall: 0.9463 || Val recall: 0.7985
+Saving state, iter: 70
+Start Train
+Train End
+Start Validation
+Finish Validation
+Epoch:71/200
+Total loss: 0.1372 || Val Loss: 0.2777 
+Total f-score: 0.9048 || Val f-score: 0.7354
+Total precision: 0.8791 || Val precision: 0.9008
+Total recall: 0.9458 || Val recall: 0.7329
+Saving state, iter: 71
+Start Train
+Train End
+Start Validation
+Finish Validation
+Epoch:72/200
+Total loss: 0.1372 || Val Loss: 0.2871 
+Total f-score: 0.9134 || Val f-score: 0.7189
+Total precision: 0.8884 || Val precision: 0.9228
+Total recall: 0.9451 || Val recall: 0.7106
+Saving state, iter: 72
+Start Train
+Train End
+Start Validation
+Finish Validation
+Epoch:73/200
+Total loss: 0.1367 || Val Loss: 0.2483 
+Total f-score: 0.9110 || Val f-score: 0.7695
+Total precision: 0.8855 || Val precision: 0.8883
+Total recall: 0.9458 || Val recall: 0.7601
+Saving state, iter: 73
+Start Train
+Train End
+Start Validation
+Finish Validation
+Epoch:74/200
+Total loss: 0.1364 || Val Loss: 0.2574 
+Total f-score: 0.9112 || Val f-score: 0.7610
+Total precision: 0.8842 || Val precision: 0.8890
+Total recall: 0.9480 || Val recall: 0.7505
+Saving state, iter: 74
+Start Train
+Train End
+Start Validation
+Finish Validation
+Epoch:75/200
+Total loss: 0.1377 || Val Loss: 0.2135 
+Total f-score: 0.9073 || Val f-score: 0.8188
+Total precision: 0.8824 || Val precision: 0.8589
+Total recall: 0.9445 || Val recall: 0.8154
+Saving state, iter: 75
+Start Train
+Train End
+Start Validation
+Finish Validation
+Epoch:76/200
+Total loss: 0.1373 || Val Loss: 0.2096 
+Total f-score: 0.9048 || Val f-score: 0.8230
+Total precision: 0.8787 || Val precision: 0.8618
+Total recall: 0.9463 || Val recall: 0.8170
+Saving state, iter: 76
+Start Train
+Train End
+Start Validation
+Finish Validation
+Epoch:77/200
+Total loss: 0.1361 || Val Loss: 0.2371 
+Total f-score: 0.9114 || Val f-score: 0.7873
+Total precision: 0.8848 || Val precision: 0.8677
+Total recall: 0.9478 || Val recall: 0.7817
+Saving state, iter: 77
+Start Train
+Train End
+Start Validation
+Finish Validation
+Epoch:78/200
+Total loss: 0.1360 || Val Loss: 0.2274 
+Total f-score: 0.9143 || Val f-score: 0.7998
+Total precision: 0.8876 || Val precision: 0.8692
+Total recall: 0.9483 || Val recall: 0.7950
+Saving state, iter: 78
+Start Train
+Train End
+Start Validation
+Finish Validation
+Epoch:79/200
+Total loss: 0.1370 || Val Loss: 0.2994 
+Total f-score: 0.9108 || Val f-score: 0.7019
+Total precision: 0.8839 || Val precision: 0.9207
+Total recall: 0.9477 || Val recall: 0.6969
+Saving state, iter: 79
+Start Train
+Train End
+Start Validation
+Finish Validation
+Epoch:80/200
+Total loss: 0.1375 || Val Loss: 0.1953 
+Total f-score: 0.9104 || Val f-score: 0.8420
+Total precision: 0.8840 || Val precision: 0.8247
+Total recall: 0.9470 || Val recall: 0.8775
+Saving state, iter: 80
+Start Train
+Train End
+Start Validation
+Finish Validation
+Epoch:81/200
+Total loss: 0.1368 || Val Loss: 0.2352 
+Total f-score: 0.9080 || Val f-score: 0.7881
+Total precision: 0.8804 || Val precision: 0.8782
+Total recall: 0.9492 || Val recall: 0.7844
+Saving state, iter: 81
+Start Train
+Train End
+Start Validation
+Finish Validation
+Epoch:82/200
+Total loss: 0.1353 || Val Loss: 0.2264 
+Total f-score: 0.9119 || Val f-score: 0.8009
+Total precision: 0.8845 || Val precision: 0.8551
+Total recall: 0.9495 || Val recall: 0.8071
+Saving state, iter: 82
+Start Train
+Train End
+Start Validation
+Finish Validation
+Epoch:83/200
+Total loss: 0.1362 || Val Loss: 0.2281 
+Total f-score: 0.9112 || Val f-score: 0.8010
+Total precision: 0.8853 || Val precision: 0.8554
+Total recall: 0.9472 || Val recall: 0.8083
+Saving state, iter: 83
+Start Train
+Train End
+Start Validation
+Finish Validation
+Epoch:84/200
+Total loss: 0.1352 || Val Loss: 0.1974 
+Total f-score: 0.9149 || Val f-score: 0.8396
+Total precision: 0.8873 || Val precision: 0.8300
+Total recall: 0.9499 || Val recall: 0.8619
+Saving state, iter: 84
+Start Train
+Train End
+Start Validation
+Finish Validation
+Epoch:85/200
+Total loss: 0.1356 || Val Loss: 0.2386 
+Total f-score: 0.9117 || Val f-score: 0.7844
+Total precision: 0.8849 || Val precision: 0.8796
+Total recall: 0.9488 || Val recall: 0.7753
+Saving state, iter: 85
+Start Train
+Train End
+Start Validation
+Finish Validation
+Epoch:86/200
+Total loss: 0.1350 || Val Loss: 0.2519 
+Total f-score: 0.9063 || Val f-score: 0.7695
+Total precision: 0.8786 || Val precision: 0.8641
+Total recall: 0.9504 || Val recall: 0.7791
+Saving state, iter: 86
+Start Train
+Train End
+Start Validation
+Finish Validation
+Epoch:87/200
+Total loss: 0.1351 || Val Loss: 0.2062 
+Total f-score: 0.9120 || Val f-score: 0.8288
+Total precision: 0.8845 || Val precision: 0.8432
+Total recall: 0.9500 || Val recall: 0.8430
+Saving state, iter: 87
+Start Train
+Train End
+Start Validation
+Finish Validation
+Epoch:88/200
+Total loss: 0.1347 || Val Loss: 0.2820 
+Total f-score: 0.9124 || Val f-score: 0.7225
+Total precision: 0.8847 || Val precision: 0.9002
+Total recall: 0.9505 || Val recall: 0.7276
+Saving state, iter: 88
+Start Train
+Train End
+Start Validation
+Finish Validation
+Epoch:89/200
+Total loss: 0.1357 || Val Loss: 0.2377 
+Total f-score: 0.9087 || Val f-score: 0.7855
+Total precision: 0.8824 || Val precision: 0.8750
+Total recall: 0.9476 || Val recall: 0.7797
+Saving state, iter: 89
+Start Train
+Train End
+Start Validation
+Finish Validation
+Epoch:90/200
+Total loss: 0.1353 || Val Loss: 0.2352 
+Total f-score: 0.9091 || Val f-score: 0.7929
+Total precision: 0.8822 || Val precision: 0.8605
+Total recall: 0.9489 || Val recall: 0.7963
+Saving state, iter: 90
+Start Train
+Train End
+Start Validation
+Finish Validation
+Epoch:91/200
+Total loss: 0.1383 || Val Loss: 0.2195 
+Total f-score: 0.9098 || Val f-score: 0.8115
+Total precision: 0.8839 || Val precision: 0.8666
+Total recall: 0.9455 || Val recall: 0.8038
+Saving state, iter: 91
+Start Train
+Train End
+Start Validation
+Finish Validation
+Epoch:92/200
+Total loss: 0.1379 || Val Loss: 0.2035 
+Total f-score: 0.9072 || Val f-score: 0.8307
+Total precision: 0.8810 || Val precision: 0.8472
+Total recall: 0.9465 || Val recall: 0.8402
+Saving state, iter: 92
+Start Train
+Train End
+Start Validation
+Finish Validation
+Epoch:93/200
+Total loss: 0.1357 || Val Loss: 0.2108 
+Total f-score: 0.9088 || Val f-score: 0.8209
+Total precision: 0.8818 || Val precision: 0.8609
+Total recall: 0.9486 || Val recall: 0.8209
+Saving state, iter: 93
+Start Train
+Train End
+Start Validation
+Finish Validation
+Epoch:94/200
+Total loss: 0.1353 || Val Loss: 0.2172 
+Total f-score: 0.9089 || Val f-score: 0.8131
+Total precision: 0.8828 || Val precision: 0.8546
+Total recall: 0.9482 || Val recall: 0.8194
+Saving state, iter: 94
+Start Train
+Train End
+Start Validation
+Finish Validation
+Epoch:95/200
+Total loss: 0.1351 || Val Loss: 0.2481 
+Total f-score: 0.9120 || Val f-score: 0.7678
+Total precision: 0.8847 || Val precision: 0.8882
+Total recall: 0.9501 || Val recall: 0.7629
+Saving state, iter: 95
+Start Train
+Train End
+Start Validation
+Finish Validation
+Epoch:96/200
+Total loss: 0.1351 || Val Loss: 0.2139 
+Total f-score: 0.9121 || Val f-score: 0.8206
+Total precision: 0.8846 || Val precision: 0.8430
+Total recall: 0.9499 || Val recall: 0.8302
+Saving state, iter: 96
+Start Train
+Train End
+Start Validation
+Finish Validation
+Epoch:97/200
+Total loss: 0.1353 || Val Loss: 0.2611 
+Total f-score: 0.9119 || Val f-score: 0.7501
+Total precision: 0.8845 || Val precision: 0.8942
+Total recall: 0.9499 || Val recall: 0.7501
+Saving state, iter: 97
+Start Train
+Train End
+Start Validation
+Finish Validation
+Epoch:98/200
+Total loss: 0.1342 || Val Loss: 0.2443 
+Total f-score: 0.9097 || Val f-score: 0.7740
+Total precision: 0.8827 || Val precision: 0.8692
+Total recall: 0.9499 || Val recall: 0.7818
+Saving state, iter: 98
+Start Train
+Train End
+Start Validation
+Finish Validation
+Epoch:99/200
+Total loss: 0.1338 || Val Loss: 0.2362 
+Total f-score: 0.9101 || Val f-score: 0.7871
+Total precision: 0.8831 || Val precision: 0.8760
+Total recall: 0.9502 || Val recall: 0.7839
+Saving state, iter: 99
+Start Train
+Train End
+Start Validation
+Finish Validation
+Epoch:100/200
+Total loss: 0.1341 || Val Loss: 0.2397 
+Total f-score: 0.9156 || Val f-score: 0.7804
+Total precision: 0.8886 || Val precision: 0.8752
+Total recall: 0.9499 || Val recall: 0.7846
+Saving state, iter: 100
+Start Train
+Train End
+Start Validation
+Finish Validation
+Epoch:101/200
+Total loss: 0.1340 || Val Loss: 0.2608 
+Total f-score: 0.9071 || Val f-score: 0.7527
+Total precision: 0.8786 || Val precision: 0.8889
+Total recall: 0.9520 || Val recall: 0.7541
+Saving state, iter: 101
+Start Train
+Train End
+Start Validation
+Finish Validation
+Epoch:102/200
+Total loss: 0.1339 || Val Loss: 0.2381 
+Total f-score: 0.9129 || Val f-score: 0.7848
+Total precision: 0.8850 || Val precision: 0.8565
+Total recall: 0.9514 || Val recall: 0.7925
+Saving state, iter: 102
+Start Train
+Train End
+Start Validation
+Finish Validation
+Epoch:103/200
+Total loss: 0.1341 || Val Loss: 0.2437 
+Total f-score: 0.9156 || Val f-score: 0.7817
+Total precision: 0.8883 || Val precision: 0.8547
+Total recall: 0.9504 || Val recall: 0.7944
+Saving state, iter: 103
+Start Train
+Train End
+Start Validation
+Finish Validation
+Epoch:104/200
+Total loss: 0.1346 || Val Loss: 0.2147 
+Total f-score: 0.9153 || Val f-score: 0.8168
+Total precision: 0.8870 || Val precision: 0.8617
+Total recall: 0.9518 || Val recall: 0.8164
+Saving state, iter: 104
+Start Train
+Train End
+Start Validation
+Finish Validation
+Epoch:105/200
+Total loss: 0.1347 || Val Loss: 0.2359 
+Total f-score: 0.9152 || Val f-score: 0.7898
+Total precision: 0.8873 || Val precision: 0.8655
+Total recall: 0.9505 || Val recall: 0.7903
+Saving state, iter: 105
+Start Train
+Train End
+Start Validation
+Finish Validation
+Epoch:106/200
+Total loss: 0.1345 || Val Loss: 0.2568 
+Total f-score: 0.9066 || Val f-score: 0.7569
+Total precision: 0.8783 || Val precision: 0.8861
+Total recall: 0.9512 || Val recall: 0.7633
+Saving state, iter: 106
+Start Train
+Train End
+Start Validation
+Finish Validation
+Epoch:107/200
+Total loss: 0.1336 || Val Loss: 0.1882 
+Total f-score: 0.9072 || Val f-score: 0.8479
+Total precision: 0.8801 || Val precision: 0.8337
+Total recall: 0.9499 || Val recall: 0.8723
+Saving state, iter: 107
+Start Train
+Train End
+Start Validation
+Finish Validation
+Epoch:108/200
+Total loss: 0.1370 || Val Loss: 0.2712 
+Total f-score: 0.9107 || Val f-score: 0.7527
+Total precision: 0.8834 || Val precision: 0.8683
+Total recall: 0.9478 || Val recall: 0.7569
+Saving state, iter: 108
+Start Train
+Train End
+Start Validation
+Finish Validation
+Epoch:109/200
+Total loss: 0.1545 || Val Loss: 0.2561 
+Total f-score: 0.8944 || Val f-score: 0.7700
+Total precision: 0.8750 || Val precision: 0.8564
+Total recall: 0.9307 || Val recall: 0.7773
+Saving state, iter: 109
+Start Train
+Train End
+Start Validation
+Finish Validation
+Epoch:110/200
+Total loss: 0.1418 || Val Loss: 0.2374 
+Total f-score: 0.9042 || Val f-score: 0.7822
+Total precision: 0.8798 || Val precision: 0.8737
+Total recall: 0.9414 || Val recall: 0.7872
+Saving state, iter: 110
+Start Train
+Train End
+Start Validation
+Finish Validation
+Epoch:111/200
+Total loss: 0.1340 || Val Loss: 0.2805 
+Total f-score: 0.9070 || Val f-score: 0.7268
+Total precision: 0.8796 || Val precision: 0.9142
+Total recall: 0.9505 || Val recall: 0.7202
+Saving state, iter: 111
+Start Train
+Train End
+Start Validation
+Finish Validation
+Epoch:112/200
+Total loss: 0.1332 || Val Loss: 0.2056 
+Total f-score: 0.9076 || Val f-score: 0.8259
+Total precision: 0.8797 || Val precision: 0.8516
+Total recall: 0.9515 || Val recall: 0.8336
+Saving state, iter: 112
+Start Train
+Train End
+Start Validation
+Finish Validation
+Epoch:113/200
+Total loss: 0.1329 || Val Loss: 0.2426 
+Total f-score: 0.9107 || Val f-score: 0.7770
+Total precision: 0.8823 || Val precision: 0.8759
+Total recall: 0.9525 || Val recall: 0.7785
+Saving state, iter: 113
+Start Train
+Train End
+Start Validation
+Finish Validation
+Epoch:114/200
+Total loss: 0.1321 || Val Loss: 0.2697 
+Total f-score: 0.9112 || Val f-score: 0.7389
+Total precision: 0.8829 || Val precision: 0.9134
+Total recall: 0.9530 || Val recall: 0.7298
+Saving state, iter: 114
+Start Train
+Train End
+Start Validation
+Finish Validation
+Epoch:115/200
+Total loss: 0.1321 || Val Loss: 0.1987 
+Total f-score: 0.9141 || Val f-score: 0.8372
+Total precision: 0.8855 || Val precision: 0.8309
+Total recall: 0.9534 || Val recall: 0.8600
+Saving state, iter: 115
+Start Train
+Train End
+Start Validation
+Finish Validation
+Epoch:116/200
+Total loss: 0.1325 || Val Loss: 0.2585 
+Total f-score: 0.9138 || Val f-score: 0.7529
+Total precision: 0.8853 || Val precision: 0.8865
+Total recall: 0.9529 || Val recall: 0.7607
+Saving state, iter: 116
+Start Train
+Train End
+Start Validation
+Finish Validation
+Epoch:117/200
+Total loss: 0.1319 || Val Loss: 0.2303 
+Total f-score: 0.9171 || Val f-score: 0.7932
+Total precision: 0.8888 || Val precision: 0.8628
+Total recall: 0.9528 || Val recall: 0.7948
+Saving state, iter: 117
+Start Train
+Train End
+Start Validation
+Finish Validation
+Epoch:118/200
+Total loss: 0.1317 || Val Loss: 0.2050 
+Total f-score: 0.9173 || Val f-score: 0.8274
+Total precision: 0.8890 || Val precision: 0.8501
+Total recall: 0.9533 || Val recall: 0.8336
+Saving state, iter: 118
+Start Train
+Train End
+Start Validation
+Finish Validation
+Epoch:119/200
+Total loss: 0.1326 || Val Loss: 0.2265 
+Total f-score: 0.9137 || Val f-score: 0.7989
+Total precision: 0.8857 || Val precision: 0.8596
+Total recall: 0.9522 || Val recall: 0.8075
+Saving state, iter: 119
+Start Train
+Train End
+Start Validation
+Finish Validation
+Epoch:120/200
+Total loss: 0.1325 || Val Loss: 0.2547 
+Total f-score: 0.9110 || Val f-score: 0.7602
+Total precision: 0.8829 || Val precision: 0.8747
+Total recall: 0.9527 || Val recall: 0.7651
+Saving state, iter: 120
+Start Train
+Train End
+Start Validation
+Finish Validation
+Epoch:121/200
+Total loss: 0.1324 || Val Loss: 0.2081 
+Total f-score: 0.9110 || Val f-score: 0.8248
+Total precision: 0.8828 || Val precision: 0.8450
+Total recall: 0.9530 || Val recall: 0.8374
+Saving state, iter: 121
+Start Train
+Train End
+Start Validation
+Finish Validation
+Epoch:122/200
+Total loss: 0.1324 || Val Loss: 0.2726 
+Total f-score: 0.9110 || Val f-score: 0.7365
+Total precision: 0.8824 || Val precision: 0.8797
+Total recall: 0.9531 || Val recall: 0.7462
+Saving state, iter: 122
+Start Train
+Train End
+Start Validation
+Finish Validation
+Epoch:123/200
+Total loss: 0.1329 || Val Loss: 0.2365 
+Total f-score: 0.9164 || Val f-score: 0.7838
+Total precision: 0.8884 || Val precision: 0.8656
+Total recall: 0.9519 || Val recall: 0.7925
+Saving state, iter: 123
+Start Train
+Train End
+Start Validation
+Finish Validation
+Epoch:124/200
+Total loss: 0.1323 || Val Loss: 0.2332 
+Total f-score: 0.9140 || Val f-score: 0.7886
+Total precision: 0.8855 || Val precision: 0.8680
+Total recall: 0.9532 || Val recall: 0.7887
+Saving state, iter: 124
+Start Train
+Train End
+Start Validation
+Finish Validation
+Epoch:125/200
+Total loss: 0.1327 || Val Loss: 0.2014 
+Total f-score: 0.9137 || Val f-score: 0.8298
+Total precision: 0.8856 || Val precision: 0.8451
+Total recall: 0.9524 || Val recall: 0.8463
+Saving state, iter: 125
+Start Train
+Train End
+Start Validation
+Finish Validation
+Epoch:126/200
+Total loss: 0.1325 || Val Loss: 0.1900 
+Total f-score: 0.9138 || Val f-score: 0.8434
+Total precision: 0.8851 || Val precision: 0.8405
+Total recall: 0.9531 || Val recall: 0.8625
+Saving state, iter: 126
+Start Train
+Train End
+Start Validation
+Finish Validation
+Epoch:127/200
+Total loss: 0.1329 || Val Loss: 0.2162 
+Total f-score: 0.9077 || Val f-score: 0.8129
+Total precision: 0.8801 || Val precision: 0.8475
+Total recall: 0.9516 || Val recall: 0.8196
+Saving state, iter: 127
+Start Train
+Train End
+Start Validation
+Finish Validation
+Epoch:128/200
+Total loss: 0.1329 || Val Loss: 0.2312 
+Total f-score: 0.9164 || Val f-score: 0.7936
+Total precision: 0.8874 || Val precision: 0.8552
+Total recall: 0.9534 || Val recall: 0.8045
+Saving state, iter: 128
+Start Train
+Train End
+Start Validation
+Finish Validation
+Epoch:129/200
+Total loss: 0.1330 || Val Loss: 0.2329 
+Total f-score: 0.9048 || Val f-score: 0.7916
+Total precision: 0.8762 || Val precision: 0.8639
+Total recall: 0.9527 || Val recall: 0.7930
+Saving state, iter: 129
+Start Train
+Train End
+Start Validation
+Finish Validation
+Epoch:130/200
+Total loss: 0.1325 || Val Loss: 0.2691 
+Total f-score: 0.9138 || Val f-score: 0.7390
+Total precision: 0.8848 || Val precision: 0.8812
+Total recall: 0.9539 || Val recall: 0.7415
+Saving state, iter: 130
+Start Train
+Train End
+Start Validation
+Finish Validation
+Epoch:131/200
+Total loss: 0.1329 || Val Loss: 0.2391 
+Total f-score: 0.9136 || Val f-score: 0.7827
+Total precision: 0.8846 || Val precision: 0.8717
+Total recall: 0.9533 || Val recall: 0.7835
+Saving state, iter: 131
+Start Train
+Train End
+Start Validation
+Finish Validation
+Epoch:132/200
+Total loss: 0.1329 || Val Loss: 0.2420 
+Total f-score: 0.9106 || Val f-score: 0.7773
+Total precision: 0.8820 || Val precision: 0.8742
+Total recall: 0.9529 || Val recall: 0.7759
+Saving state, iter: 132
+Start Train
+Train End
+Start Validation
+Finish Validation
+Epoch:133/200
+Total loss: 0.1328 || Val Loss: 0.2409 
+Total f-score: 0.9165 || Val f-score: 0.7773
+Total precision: 0.8874 || Val precision: 0.8738
+Total recall: 0.9538 || Val recall: 0.7820
+Saving state, iter: 133
+Start Train
+Train End
+Start Validation
+Finish Validation
+Epoch:134/200
+Total loss: 0.1323 || Val Loss: 0.2163 
+Total f-score: 0.9112 || Val f-score: 0.8135
+Total precision: 0.8832 || Val precision: 0.8566
+Total recall: 0.9524 || Val recall: 0.8176
+Saving state, iter: 134
+Start Train
+Train End
+Start Validation
+Finish Validation
+Epoch:135/200
+Total loss: 0.1323 || Val Loss: 0.2605 
+Total f-score: 0.9081 || Val f-score: 0.7525
+Total precision: 0.8794 || Val precision: 0.8962
+Total recall: 0.9535 || Val recall: 0.7491
+Saving state, iter: 135
+Start Train
+Train End
+Start Validation
+Finish Validation
+Epoch:136/200
+Total loss: 0.1330 || Val Loss: 0.2528 
+Total f-score: 0.9105 || Val f-score: 0.7641
+Total precision: 0.8812 || Val precision: 0.8904
+Total recall: 0.9536 || Val recall: 0.7616
+Saving state, iter: 136
+Start Train
+Train End
+Start Validation
+Finish Validation
+Epoch:137/200
+Total loss: 0.1323 || Val Loss: 0.2072 
+Total f-score: 0.9140 || Val f-score: 0.8258
+Total precision: 0.8850 || Val precision: 0.8366
+Total recall: 0.9537 || Val recall: 0.8411
+Saving state, iter: 137
+Start Train
+Train End
+Start Validation
+Finish Validation
+Epoch:138/200
+Total loss: 0.1323 || Val Loss: 0.2330 
+Total f-score: 0.9139 || Val f-score: 0.7931
+Total precision: 0.8848 || Val precision: 0.8551
+Total recall: 0.9542 || Val recall: 0.7991
+Saving state, iter: 138
+Start Train
+Train End
+Start Validation
+Finish Validation
+Epoch:139/200
+Total loss: 0.1326 || Val Loss: 0.2476 
+Total f-score: 0.9137 || Val f-score: 0.7713
+Total precision: 0.8846 || Val precision: 0.8707
+Total recall: 0.9541 || Val recall: 0.7776
+Saving state, iter: 139
+Start Train
+Train End
+Start Validation
+Finish Validation
+Epoch:140/200
+Total loss: 0.1324 || Val Loss: 0.2431 
+Total f-score: 0.9139 || Val f-score: 0.7759
+Total precision: 0.8840 || Val precision: 0.8721
+Total recall: 0.9549 || Val recall: 0.7787
+Saving state, iter: 140
+Start Train
+Train End
+Start Validation
+Finish Validation
+Epoch:141/200
+Total loss: 0.1316 || Val Loss: 0.2222 
+Total f-score: 0.9116 || Val f-score: 0.8059
+Total precision: 0.8817 || Val precision: 0.8479
+Total recall: 0.9556 || Val recall: 0.8182
+Saving state, iter: 141
+Start Train
+Train End
+Start Validation
+Finish Validation
+Epoch:142/200
+Total loss: 0.1320 || Val Loss: 0.2196 
+Total f-score: 0.9141 || Val f-score: 0.8092
+Total precision: 0.8848 || Val precision: 0.8494
+Total recall: 0.9544 || Val recall: 0.8228
+Saving state, iter: 142
+Start Train
+Train End
+Start Validation
+Finish Validation
+Epoch:143/200
+Total loss: 0.1324 || Val Loss: 0.2093 
+Total f-score: 0.9139 || Val f-score: 0.8229
+Total precision: 0.8852 || Val precision: 0.8443
+Total recall: 0.9537 || Val recall: 0.8284
+Saving state, iter: 143
+Start Train
+Train End
+Start Validation
+Finish Validation
+Epoch:144/200
+Total loss: 0.1347 || Val Loss: 0.2370 
+Total f-score: 0.9121 || Val f-score: 0.7895
+Total precision: 0.8835 || Val precision: 0.8541
+Total recall: 0.9518 || Val recall: 0.8011
+Saving state, iter: 144
+Start Train
+Train End
+Start Validation
+Finish Validation
+Epoch:145/200
+Total loss: 0.1345 || Val Loss: 0.2226 
+Total f-score: 0.9067 || Val f-score: 0.8010
+Total precision: 0.8782 || Val precision: 0.8659
+Total recall: 0.9515 || Val recall: 0.8136
+Saving state, iter: 145
+Start Train
+Train End
+Start Validation
+Finish Validation
+Epoch:146/200
+Total loss: 0.1318 || Val Loss: 0.2172 
+Total f-score: 0.9114 || Val f-score: 0.8125
+Total precision: 0.8819 || Val precision: 0.8520
+Total recall: 0.9548 || Val recall: 0.8251
+Saving state, iter: 146
+Start Train
+Train End
+Start Validation
+Finish Validation
+Epoch:147/200
+Total loss: 0.1320 || Val Loss: 0.2021 
+Total f-score: 0.9171 || Val f-score: 0.8285
+Total precision: 0.8875 || Val precision: 0.8523
+Total recall: 0.9548 || Val recall: 0.8413
+Saving state, iter: 147
+Start Train
+Train End
+Start Validation
+Finish Validation
+Epoch:148/200
+Total loss: 0.1310 || Val Loss: 0.2065 
+Total f-score: 0.9120 || Val f-score: 0.8250
+Total precision: 0.8833 || Val precision: 0.8533
+Total recall: 0.9542 || Val recall: 0.8361
+Saving state, iter: 148
+Start Train
+Train End
+Start Validation
+Finish Validation
+Epoch:149/200
+Total loss: 0.1321 || Val Loss: 0.2426 
+Total f-score: 0.9141 || Val f-score: 0.7775
+Total precision: 0.8851 || Val precision: 0.8686
+Total recall: 0.9540 || Val recall: 0.7894
+Saving state, iter: 149
+Start Train
+Train End
+Start Validation
+Finish Validation
+Epoch:150/200
+Total loss: 0.1318 || Val Loss: 0.2467 
+Total f-score: 0.9143 || Val f-score: 0.7725
+Total precision: 0.8849 || Val precision: 0.8661
+Total recall: 0.9547 || Val recall: 0.7836
+Saving state, iter: 150
+Start Train
+Train End
+Start Validation
+Finish Validation
+Epoch:151/200
+Total loss: 0.1322 || Val Loss: 0.2295 
+Total f-score: 0.9111 || Val f-score: 0.7989
+Total precision: 0.8825 || Val precision: 0.8489
+Total recall: 0.9532 || Val recall: 0.8088
+Saving state, iter: 151
+Start Train
+Train End
+Start Validation
+Finish Validation
+Epoch:152/200
+Total loss: 0.1379 || Val Loss: 0.2432 
+Total f-score: 0.9041 || Val f-score: 0.7791
+Total precision: 0.8766 || Val precision: 0.8721
+Total recall: 0.9489 || Val recall: 0.7741
+Saving state, iter: 152
+Start Train
+Train End
+Start Validation
+Finish Validation
+Epoch:153/200
+Total loss: 0.1328 || Val Loss: 0.2358 
+Total f-score: 0.9136 || Val f-score: 0.7867
+Total precision: 0.8848 || Val precision: 0.8683
+Total recall: 0.9532 || Val recall: 0.7909
+Saving state, iter: 153
+Start Train
+Train End
+Start Validation
+Finish Validation
+Epoch:154/200
+Total loss: 0.1317 || Val Loss: 0.2444 
+Total f-score: 0.9143 || Val f-score: 0.7735
+Total precision: 0.8853 || Val precision: 0.8796
+Total recall: 0.9539 || Val recall: 0.7754
+Saving state, iter: 154
+Start Train
+Train End
+Start Validation
+Finish Validation
+Epoch:155/200
+Total loss: 0.1310 || Val Loss: 0.2463 
+Total f-score: 0.9177 || Val f-score: 0.7728
+Total precision: 0.8881 || Val precision: 0.8830
+Total recall: 0.9555 || Val recall: 0.7686
+Saving state, iter: 155
+Start Train
+Train End
+Start Validation
+Finish Validation
+Epoch:156/200
+Total loss: 0.1305 || Val Loss: 0.2025 
+Total f-score: 0.9152 || Val f-score: 0.8314
+Total precision: 0.8858 || Val precision: 0.8290
+Total recall: 0.9557 || Val recall: 0.8621
+Saving state, iter: 156
+Start Train
+Train End
+Start Validation
+Finish Validation
+Epoch:157/200
+Total loss: 0.1306 || Val Loss: 0.2213 
+Total f-score: 0.9122 || Val f-score: 0.8081
+Total precision: 0.8826 || Val precision: 0.8581
+Total recall: 0.9557 || Val recall: 0.8109
+Saving state, iter: 157
+Start Train
+Train End
+Start Validation
+Finish Validation
+Epoch:158/200
+Total loss: 0.1310 || Val Loss: 0.2704 
+Total f-score: 0.9148 || Val f-score: 0.7383
+Total precision: 0.8861 || Val precision: 0.8853
+Total recall: 0.9543 || Val recall: 0.7476
+Saving state, iter: 158
+Start Train
+Train End
+Start Validation
+Finish Validation
+Epoch:159/200
+Total loss: 0.1310 || Val Loss: 0.2742 
+Total f-score: 0.9177 || Val f-score: 0.7346
+Total precision: 0.8886 || Val precision: 0.8846
+Total recall: 0.9547 || Val recall: 0.7462
+Saving state, iter: 159
+Start Train
+Train End
+Start Validation
+Finish Validation
+Epoch:160/200
+Total loss: 0.1314 || Val Loss: 0.2219 
+Total f-score: 0.9174 || Val f-score: 0.8042
+Total precision: 0.8883 || Val precision: 0.8649
+Total recall: 0.9545 || Val recall: 0.8066
+Saving state, iter: 160
+Start Train
+Train End
+Start Validation
+Finish Validation
+Epoch:161/200
+Total loss: 0.1302 || Val Loss: 0.2509 
+Total f-score: 0.9182 || Val f-score: 0.7653
+Total precision: 0.8887 || Val precision: 0.8785
+Total recall: 0.9559 || Val recall: 0.7727
+Saving state, iter: 161
+Start Train
+Train End
+Start Validation
+Finish Validation
+Epoch:162/200
+Total loss: 0.1309 || Val Loss: 0.2268 
+Total f-score: 0.9120 || Val f-score: 0.7983
+Total precision: 0.8825 || Val precision: 0.8556
+Total recall: 0.9555 || Val recall: 0.8059
+Saving state, iter: 162
+Start Train
+Train End
+Start Validation
+Finish Validation
+Epoch:163/200
+Total loss: 0.1307 || Val Loss: 0.2409 
+Total f-score: 0.9150 || Val f-score: 0.7793
+Total precision: 0.8853 || Val precision: 0.8747
+Total recall: 0.9560 || Val recall: 0.7817
+Saving state, iter: 163
+Start Train
+Train End
+Start Validation
+Finish Validation
+Epoch:164/200
+Total loss: 0.1306 || Val Loss: 0.2083 
+Total f-score: 0.9151 || Val f-score: 0.8233
+Total precision: 0.8854 || Val precision: 0.8680
+Total recall: 0.9558 || Val recall: 0.8153
+Saving state, iter: 164
+Start Train
+Train End
+Start Validation
+Finish Validation
+Epoch:165/200
+Total loss: 0.1307 || Val Loss: 0.2000 
+Total f-score: 0.9150 || Val f-score: 0.8337
+Total precision: 0.8853 || Val precision: 0.8365
+Total recall: 0.9557 || Val recall: 0.8568
+Saving state, iter: 165
+Start Train
+Train End
+Start Validation
+Finish Validation
+Epoch:166/200
+Total loss: 0.1311 || Val Loss: 0.2668 
+Total f-score: 0.9176 || Val f-score: 0.7416
+Total precision: 0.8888 || Val precision: 0.8995
+Total recall: 0.9545 || Val recall: 0.7421
+Saving state, iter: 166
+Start Train
+Train End
+Start Validation
+Finish Validation
+Epoch:167/200
+Total loss: 0.1314 || Val Loss: 0.2568 
+Total f-score: 0.9173 || Val f-score: 0.7592
+Total precision: 0.8877 || Val precision: 0.8791
+Total recall: 0.9551 || Val recall: 0.7638
+Saving state, iter: 167
+Start Train
+Train End
+Start Validation
+Finish Validation
+Epoch:168/200
+Total loss: 0.1313 || Val Loss: 0.2393 
+Total f-score: 0.9146 || Val f-score: 0.7846
+Total precision: 0.8856 || Val precision: 0.8606
+Total recall: 0.9544 || Val recall: 0.7944
+Saving state, iter: 168
+Start Train
+Train End
+Start Validation
+Finish Validation
+Epoch:169/200
+Total loss: 0.1313 || Val Loss: 0.2214 
+Total f-score: 0.9117 || Val f-score: 0.8070
+Total precision: 0.8819 || Val precision: 0.8559
+Total recall: 0.9556 || Val recall: 0.8116
+Saving state, iter: 169
+Start Train
+Train End
+Start Validation
+Finish Validation
+Epoch:170/200
+Total loss: 0.1307 || Val Loss: 0.2677 
+Total f-score: 0.9093 || Val f-score: 0.7431
+Total precision: 0.8796 || Val precision: 0.8752
+Total recall: 0.9561 || Val recall: 0.7526
+Saving state, iter: 170
+Start Train
+Train End
+Start Validation
+Finish Validation
+Epoch:171/200
+Total loss: 0.1305 || Val Loss: 0.2667 
+Total f-score: 0.9122 || Val f-score: 0.7439
+Total precision: 0.8817 || Val precision: 0.8911
+Total recall: 0.9573 || Val recall: 0.7518
+Saving state, iter: 171
+Start Train
+Train End
+Start Validation
+Finish Validation
+Epoch:172/200
+Total loss: 0.1302 || Val Loss: 0.2700 
+Total f-score: 0.9154 || Val f-score: 0.7382
+Total precision: 0.8851 || Val precision: 0.8995
+Total recall: 0.9574 || Val recall: 0.7405
+Saving state, iter: 172
+Start Train
+Train End
+Start Validation
+Finish Validation
+Epoch:173/200
+Total loss: 0.1300 || Val Loss: 0.2071 
+Total f-score: 0.9184 || Val f-score: 0.8237
+Total precision: 0.8882 || Val precision: 0.8535
+Total recall: 0.9572 || Val recall: 0.8320
+Saving state, iter: 173
+Start Train
+Train End
+Start Validation
+Finish Validation
+Epoch:174/200
+Total loss: 0.1302 || Val Loss: 0.2419 
+Total f-score: 0.9183 || Val f-score: 0.7763
+Total precision: 0.8884 || Val precision: 0.8782
+Total recall: 0.9565 || Val recall: 0.7802
+Saving state, iter: 174
+Start Train
+Train End
+Start Validation
+Finish Validation
+Epoch:175/200
+Total loss: 0.1301 || Val Loss: 0.2456 
+Total f-score: 0.9184 || Val f-score: 0.7732
+Total precision: 0.8883 || Val precision: 0.8731
+Total recall: 0.9569 || Val recall: 0.7823
+Saving state, iter: 175
+Start Train
+Train End
+Start Validation
+Finish Validation
+Epoch:176/200
+Total loss: 0.1303 || Val Loss: 0.2503 
+Total f-score: 0.9182 || Val f-score: 0.7640
+Total precision: 0.8880 || Val precision: 0.8732
+Total recall: 0.9567 || Val recall: 0.7751
+Saving state, iter: 176
+Start Train
+Train End
+Start Validation
+Finish Validation
+Epoch:177/200
+Total loss: 0.1298 || Val Loss: 0.1975 
+Total f-score: 0.9128 || Val f-score: 0.8331
+Total precision: 0.8823 || Val precision: 0.8539
+Total recall: 0.9575 || Val recall: 0.8449
+Saving state, iter: 177
+Start Train
+Train End
+Start Validation
+Finish Validation
+Epoch:178/200
+Total loss: 0.1299 || Val Loss: 0.2358 
+Total f-score: 0.9185 || Val f-score: 0.7890
+Total precision: 0.8884 || Val precision: 0.8627
+Total recall: 0.9574 || Val recall: 0.7979
+Saving state, iter: 178
+Start Train
+Train End
+Start Validation
+Finish Validation
+Epoch:179/200
+Total loss: 0.1302 || Val Loss: 0.2165 
+Total f-score: 0.9154 || Val f-score: 0.8170
+Total precision: 0.8848 || Val precision: 0.8276
+Total recall: 0.9574 || Val recall: 0.8359
+Saving state, iter: 179
+Start Train
+Train End
+Start Validation
+Finish Validation
+Epoch:180/200
+Total loss: 0.1305 || Val Loss: 0.2521 
+Total f-score: 0.9152 || Val f-score: 0.7615
+Total precision: 0.8859 || Val precision: 0.8837
+Total recall: 0.9554 || Val recall: 0.7670
+Saving state, iter: 180
+Start Train
+Train End
+Start Validation
+Finish Validation
+Epoch:181/200
+Total loss: 0.1308 || Val Loss: 0.2194 
+Total f-score: 0.9150 || Val f-score: 0.8078
+Total precision: 0.8852 || Val precision: 0.8588
+Total recall: 0.9558 || Val recall: 0.8135
+Saving state, iter: 181
+Start Train
+Train End
+Start Validation
+Finish Validation
+Epoch:182/200
+Total loss: 0.1298 || Val Loss: 0.2413 
+Total f-score: 0.9186 || Val f-score: 0.7784
+Total precision: 0.8881 || Val precision: 0.8696
+Total recall: 0.9575 || Val recall: 0.7828
+Saving state, iter: 182
+Start Train
+Train End
+Start Validation
+Finish Validation
+Epoch:183/200
+Total loss: 0.1318 || Val Loss: 0.2484 
+Total f-score: 0.9113 || Val f-score: 0.7836
+Total precision: 0.8814 || Val precision: 0.8473
+Total recall: 0.9558 || Val recall: 0.7958
+Saving state, iter: 183
+Start Train
+Train End
+Start Validation
+Finish Validation
+Epoch:184/200
+Total loss: 0.1330 || Val Loss: 0.2340 
+Total f-score: 0.9107 || Val f-score: 0.7870
+Total precision: 0.8820 || Val precision: 0.8687
+Total recall: 0.9533 || Val recall: 0.7897
+Saving state, iter: 184
+Start Train
+Train End
+Start Validation
+Finish Validation
+Epoch:185/200
+Total loss: 0.1307 || Val Loss: 0.2686 
+Total f-score: 0.9122 || Val f-score: 0.7412
+Total precision: 0.8818 || Val precision: 0.8970
+Total recall: 0.9569 || Val recall: 0.7344
+Saving state, iter: 185
+Start Train
+Train End
+Start Validation
+Finish Validation
+Epoch:186/200
+Total loss: 0.1297 || Val Loss: 0.2546 
+Total f-score: 0.9158 || Val f-score: 0.7618
+Total precision: 0.8851 || Val precision: 0.8766
+Total recall: 0.9579 || Val recall: 0.7649
+Saving state, iter: 186
+Start Train
+Train End
+Start Validation
+Finish Validation
+Epoch:187/200
+Total loss: 0.1295 || Val Loss: 0.2456 
+Total f-score: 0.9130 || Val f-score: 0.7723
+Total precision: 0.8825 || Val precision: 0.8791
+Total recall: 0.9578 || Val recall: 0.7707
+Saving state, iter: 187
+Start Train
+Train End
+Start Validation
+Finish Validation
+Epoch:188/200
+Total loss: 0.1296 || Val Loss: 0.2159 
+Total f-score: 0.9158 || Val f-score: 0.8138
+Total precision: 0.8854 || Val precision: 0.8522
+Total recall: 0.9576 || Val recall: 0.8194
+Saving state, iter: 188
+Start Train
+Train End
+Start Validation
+Finish Validation
+Epoch:189/200
+Total loss: 0.1300 || Val Loss: 0.2178 
+Total f-score: 0.9126 || Val f-score: 0.8107
+Total precision: 0.8823 || Val precision: 0.8485
+Total recall: 0.9571 || Val recall: 0.8220
+Saving state, iter: 189
+Start Train
+Train End
+Start Validation
+Finish Validation
+Epoch:190/200
+Total loss: 0.1298 || Val Loss: 0.2208 
+Total f-score: 0.9186 || Val f-score: 0.8058
+Total precision: 0.8886 || Val precision: 0.8628
+Total recall: 0.9568 || Val recall: 0.8071
+Saving state, iter: 190
+Start Train
+Train End
+Start Validation
+Finish Validation
+Epoch:191/200
+Total loss: 0.1296 || Val Loss: 0.2581 
+Total f-score: 0.9157 || Val f-score: 0.7513
+Total precision: 0.8856 || Val precision: 0.8912
+Total recall: 0.9573 || Val recall: 0.7615
+Saving state, iter: 191
+Start Train
+Train End
+Start Validation
+Finish Validation
+Epoch:192/200
+Total loss: 0.1295 || Val Loss: 0.2192 
+Total f-score: 0.9129 || Val f-score: 0.8130
+Total precision: 0.8816 || Val precision: 0.8170
+Total recall: 0.9590 || Val recall: 0.8340
+Saving state, iter: 192
+Start Train
+Train End
+Start Validation
+Finish Validation
+Epoch:193/200
+Total loss: 0.1296 || Val Loss: 0.2432 
+Total f-score: 0.9128 || Val f-score: 0.7770
+Total precision: 0.8824 || Val precision: 0.8662
+Total recall: 0.9576 || Val recall: 0.7892
+Saving state, iter: 193
+Start Train
+Train End
+Start Validation
+Finish Validation
+Epoch:194/200
+Total loss: 0.1294 || Val Loss: 0.2489 
+Total f-score: 0.9130 || Val f-score: 0.7654
+Total precision: 0.8822 || Val precision: 0.8912
+Total recall: 0.9581 || Val recall: 0.7636
+Saving state, iter: 194
+Start Train
+Train End
+Start Validation
+Finish Validation
+Epoch:195/200
+Total loss: 0.1290 || Val Loss: 0.2399 
+Total f-score: 0.9162 || Val f-score: 0.7806
+Total precision: 0.8856 || Val precision: 0.8682
+Total recall: 0.9580 || Val recall: 0.7836
+Saving state, iter: 195
+Start Train
+Train End
+Start Validation
+Finish Validation
+Epoch:196/200
+Total loss: 0.1295 || Val Loss: 0.1861 
+Total f-score: 0.9159 || Val f-score: 0.8493
+Total precision: 0.8853 || Val precision: 0.8290
+Total recall: 0.9579 || Val recall: 0.8808
+Saving state, iter: 196
+Start Train
+Train End
+Start Validation
+Finish Validation
+Epoch:197/200
+Total loss: 0.1294 || Val Loss: 0.2356 
+Total f-score: 0.9159 || Val f-score: 0.7836
+Total precision: 0.8855 || Val precision: 0.8738
+Total recall: 0.9575 || Val recall: 0.7876
+Saving state, iter: 197
+Start Train
+Train End
+Start Validation
+Finish Validation
+Epoch:198/200
+Total loss: 0.1300 || Val Loss: 0.2323 
+Total f-score: 0.9127 || Val f-score: 0.7924
+Total precision: 0.8817 || Val precision: 0.8661
+Total recall: 0.9581 || Val recall: 0.7959
+Saving state, iter: 198
+Start Train
+Train End
+Start Validation
+Finish Validation
+Epoch:199/200
+Total loss: 0.1299 || Val Loss: 0.2171 
+Total f-score: 0.9127 || Val f-score: 0.8195
+Total precision: 0.8812 || Val precision: 0.8461
+Total recall: 0.9588 || Val recall: 0.8308
+Saving state, iter: 199
+Start Train
+Train End
+Start Validation
+Finish Validation
+Epoch:200/200
+Total loss: 0.1298 || Val Loss: 0.2075 
+Total f-score: 0.9186 || Val f-score: 0.8228
+Total precision: 0.8891 || Val precision: 0.8573
+Total recall: 0.9562 || Val recall: 0.8326
+Saving state, iter: 200
