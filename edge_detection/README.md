@@ -83,4 +83,4 @@ There are 2 evaluation codes.
 
 From left to right is the input and the output.
 
-![](edge_detection/output/339.JPG)
+![](./output/339.JPG)
