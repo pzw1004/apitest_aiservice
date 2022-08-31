@@ -81,6 +81,6 @@ There are 2 evaluation codes.
 
 ### An example 
 
-From left to right is the input,label and the output.
+From left to right is the input and the output.
 
-![](pic.png)
+![](edge_detection/output/339.JPG)
