@@ -1,0 +1,1 @@
+python train.py --data data/coco.yaml --cfg models/yolov5s.yaml  --weights yolov5s.pt  --batch-size 16 --img 640 --workers 8 --optimizer Adam
