@@ -38,13 +38,17 @@ if __name__ == "__main__":
     netG = UNet_3Plus().cuda()
     netG.eval()
     with torch.no_grad():
-        checkpoint = torch.load(args.checkpoint)
+        root = os.getcwd()
+        checkpoint_path = os.path.join(root,args.checkpoint)
+        checkpoint = torch.load(checkpoint_path)
         netG.load_state_dict(checkpoint)
 
         img_path = args.img_path
         img_name = img_path.split('/')[-1]
         img = cv2.imread(img_path)
         h,w,c = img.shape
+        h=300
+        w=1000
         img = cv2.resize(img,(640,224),cv2.INTER_CUBIC)
         img_tensor = img2tensor(img).cuda()
         output_tensor = netG.forward(img_tensor)
@@ -66,7 +70,7 @@ if __name__ == "__main__":
         for value in contours:
                 zhouchang=cv2.arcLength(curve=value,closed=True)
                 zhouchanglist.append(zhouchang)
-                if zhouchang>10000:
+                if zhouchang>1667:
                     if len(clean_contours)==0:
                         clean_contours=(value,)
                     else:    
@@ -77,7 +81,7 @@ if __name__ == "__main__":
             for one_zu in one_contour:
                 x,y = one_zu[0]
                 output_str+= str(x)+','+str(y)+' '
-            print(output_str + '\n')
+            print(output_str)
         cv2.drawContours(output_img_binary,clean_contours,-1,(0,0,255),3)  
 
         img = cv2.resize(img,(w,h),cv2.INTER_CUBIC)
